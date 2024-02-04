@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Md. Mubarok Hossain
 
-![image](https://github.com/mubarok-devops/mubarok-devops/assets/127681929/1bc20a4d-6c5c-4f07-8502-4f43ab5dcb20)
+
+![image](https://github.com/mubarok-devops/mubarok-devops/assets/127681929/48397234-d72d-4015-91ce-0761cad23313)
 
 
 ==================== IAM  ======================
